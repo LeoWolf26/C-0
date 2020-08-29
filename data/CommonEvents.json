@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":121,"indent":0,"parameters":[3,3,0]},{"code":0,"indent":0,"parameters":[]}],"name":"事件開始用","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[3,3,1]},{"code":0,"indent":0,"parameters":[]}],"name":"事件結束用","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
