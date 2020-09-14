@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":false,"name":"MiniGame1","order":2,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"測試區域","order":1,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":2,"expanded":false,"name":"MiniGame1","order":2,"parentId":1,"scrollX":1092,"scrollY":604},
+{"id":3,"expanded":false,"name":"戰鬥測試用","order":3,"parentId":1,"scrollX":1092,"scrollY":604}
 ]
